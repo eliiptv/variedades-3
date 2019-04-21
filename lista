@@ -1,73 +1,73 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ARTE 1***" tvg-name="ARTE 1" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades / Músicas",ARTE 1
-http://streamtv.com.br:80/malek/malek/1664
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1664
 #EXTINF:-1 tvg-id="ARTE 1 HD***" tvg-name="ARTE 1 HD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades / Músicas",ARTE 1 HD
-http://streamtv.com.br:80/malek/malek/230
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/230
 #EXTINF:-1 tvg-id="BIS***" tvg-name="BIS" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades / Músicas",BIS
-http://streamtv.com.br:80/malek/malek/1658
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1658
 #EXTINF:-1 tvg-id="BIS HD***" tvg-name="BIS HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades / Músicas",BIS HD
-http://streamtv.com.br:80/malek/malek/224
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/224
 #EXTINF:-1 tvg-id="COMEDY CENTRAL***" tvg-name="COMEDY CENTRAL" tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Variedades / Músicas",COMEDY CENTRAL
-http://streamtv.com.br:80/malek/malek/1649
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1649
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD***" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Variedades / Músicas",COMEDY CENTRAL HD
-http://streamtv.com.br:80/malek/malek/217
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/217
 #EXTINF:-1 tvg-id="Curta!***" tvg-name="CURTA!" tvg-logo="http://www.streamtv.com.br:8090/logo/curta.png" group-title="Variedades / Músicas",CURTA!
-http://streamtv.com.br:80/malek/malek/1648
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1648
 #EXTINF:-1 tvg-id="CURTA! HD***" tvg-name="CURTA! HD" tvg-logo="http://www.streamtv.com.br:8090/logo/curta.png" group-title="Variedades / Músicas",CURTA! HD
-http://streamtv.com.br:80/malek/malek/216
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/216
 #EXTINF:-1 tvg-id="FOOD NETWORK***" tvg-name="FOOD NETWORK" tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="Variedades / Músicas",FOOD NETWORK
-http://streamtv.com.br:80/malek/malek/1627
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1627
 #EXTINF:-1 tvg-id="FOOD NETWORK HD***" tvg-name="FOOD NETWORK HD" tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="Variedades / Músicas",FOOD NETWORK HD
-http://streamtv.com.br:80/malek/malek/198
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/198
 #EXTINF:-1 tvg-id="GNT***" tvg-name="GNT" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades / Músicas",GNT
-http://streamtv.com.br:80/malek/malek/1601
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1601
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades / Músicas",GNT HD
-http://streamtv.com.br:80/malek/malek/174
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/174
 #EXTINF:-1 tvg-id="LIFETIME***" tvg-name="LIFETIME" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades / Músicas",LIFETIME
-http://streamtv.com.br:80/malek/malek/1591
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1591
 #EXTINF:-1 tvg-id="LIFETIME HD***" tvg-name="LIFETIME HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades / Músicas",LIFETIME HD
-http://streamtv.com.br:80/malek/malek/165
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/165
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT***" tvg-name="MAIS GLOBOSAT" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades / Músicas",MAIS GLOBOSAT
-http://streamtv.com.br:80/malek/malek/1590
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1590
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT***" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades / Músicas",MAIS GLOBOSAT HD
-http://streamtv.com.br:80/malek/malek/164
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/164
 #EXTINF:-1 tvg-id="MTV***" tvg-name="MTV" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Variedades / Músicas",MTV
-http://streamtv.com.br:80/malek/malek/1584
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1584
 #EXTINF:-1 tvg-id="MTV HD***" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Variedades / Músicas",MTV HD
-http://streamtv.com.br:80/malek/malek/159
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/159
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Variedades / Músicas",MTV LIVE
-http://streamtv.com.br:80/malek/malek/3166
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/3166
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Variedades / Músicas",MTV LIVE HD
-http://streamtv.com.br:80/malek/malek/3165
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/3165
 #EXTINF:-1 tvg-id="MULTISHOW***" tvg-name="MULTISHOW" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="Variedades / Músicas",MULTISHOW
-http://streamtv.com.br:80/malek/malek/1583
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1583
 #EXTINF:-1 tvg-id="MULTISHOW HD***" tvg-name="MULTISHOW HD" tvg-logo="" group-title="Variedades / Músicas",MULTISHOW HD
-http://streamtv.com.br:80/malek/malek/158
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/158
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL HD***" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil%20HD.png" group-title="Variedades / Músicas",MUSIC BOX BRASIL
-http://streamtv.com.br:80/malek/malek/1582
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1582
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL HD***" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil%20HD.png" group-title="Variedades / Músicas",MUSIC BOX BRASIL HD
-http://streamtv.com.br:80/malek/malek/157
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/157
 #EXTINF:-1 tvg-id="OFF***" tvg-name="OFF" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades / Músicas",OFF
-http://streamtv.com.br:80/malek/malek/1575
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1575
 #EXTINF:-1 tvg-id="OFF HD***" tvg-name="OFF HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Variedades / Músicas",OFF HD
-http://streamtv.com.br:80/malek/malek/151
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/151
 #EXTINF:-1 tvg-id="TLC***" tvg-name="TLC" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Variedades / Músicas",TLC
-http://streamtv.com.br:80/malek/malek/1541
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1541
 #EXTINF:-1 tvg-id="TLC HD***" tvg-name="TLC HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Variedades / Músicas",TLC HD
-http://streamtv.com.br:80/malek/malek/124
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/124
 #EXTINF:-1 tvg-id="TruTV***" tvg-name="TruTV" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="Variedades / Músicas",TruTV
-http://streamtv.com.br:80/malek/malek/1530
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1530
 #EXTINF:-1 tvg-id="TruTV HD***" tvg-name="TRUTV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="Variedades / Músicas",TRUTV HD
-http://streamtv.com.br:80/malek/malek/274
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/274
 #EXTINF:-1 tvg-id="VH1***" tvg-name="VH1" tvg-logo="http://printv.esy.es/server/VH1%20Mega%20Hits.png" group-title="Variedades / Músicas",VH1
-http://streamtv.com.br:80/malek/malek/1528
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1528
 #EXTINF:-1 tvg-id="VH1 HD***" tvg-name="VH1 HD" tvg-logo="http://printv.esy.es/server/VH1%20Mega%20Hits.png" group-title="Variedades / Músicas",VH1 HD
-http://streamtv.com.br:80/malek/malek/117
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/117
 #EXTINF:-1 tvg-id="VIVA HD***" tvg-name="VIVA" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades / Músicas",VIVA
-http://streamtv.com.br:80/malek/malek/1526
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1526
 #EXTINF:-1 tvg-id="VIVA***" tvg-name="VIVA HD" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades / Músicas",VIVA HD
-http://streamtv.com.br:80/malek/malek/116
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/116
 #EXTINF:-1 tvg-id="WOOHOO HD***" tvg-name="WOOHOO" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Variedades / Músicas",WOOHOO
-http://streamtv.com.br:80/malek/malek/1524
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1524
 #EXTINF:-1 tvg-id="WOOHOO***" tvg-name="WOOHOO HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Variedades / Músicas",WOOHOO HD
-http://streamtv.com.br:80/malek/malek/114
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/114
