@@ -1,139 +1,139 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/10235
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/10235
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7904
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7904
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20880
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20880
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",ALJAZEERA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7550
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7550
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/11547
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/11547
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6881
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6881
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20866
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20866
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6964
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6964
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20868
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20868
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="BLOOMBERG TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/blobemg.png" group-title="CANAIS ENTRETENIMENTO",BLOOMBERG TV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7424
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7424
 #EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CANAIS CULTURA",CURTA! SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/10291
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/10291
 #EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CANAIS CULTURA",CURTA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20826
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20826
 #EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ESPORTES",E! HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/10285
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/10285
 #EXTINF:-1 tvg-id="E!" tvg-name="E! HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20788
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20788
 #EXTINF:-1 tvg-id="E!" tvg-name="E! SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4382
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4382
 #EXTINF:-1 tvg-id="E!" tvg-name="E! SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20789
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20789
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS ESPORTES",FISH TV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4377
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4377
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS ESPORTES",FISH TV SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20773
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20773
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/13196
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/13196
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7534
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7534
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20756
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20756
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6959
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6959
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20757
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20757
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6956
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6956
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20752
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20752
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4368
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4368
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20751
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20751
 #EXTINF:-1 tvg-id="Ideal TV" tvg-name="IDEAL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/200px-Ideal_TV_logo.svg.png" group-title="CANAIS CULTURA",IDEAL TV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20674
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20674
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/11540
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/11540
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7525
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7525
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20668
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20668
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7876
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7876
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20670
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20670
 #EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/9262
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/9262
 #EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20665
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20665
 #EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6953
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6953
 #EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20666
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20666
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/11573
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/11573
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7524
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7524
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20644
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20644
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4353
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4353
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20646
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20646
 #EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/13201
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/13201
 #EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6867
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6867
 #EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20648
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20648
 #EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4352
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4352
 #EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20650
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20650
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="CANAIS MUSICAS",MUSIC BOX BRASIL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/7848
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/7848
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="CANAIS MUSICAS",MUSIC BOX BRASIL SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20655
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20655
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="CANAIS MUSICAS",PRIME BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4332
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4332
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="CANAIS MUSICAS",PRIME BOX BRASIL SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20587
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20587
 #EXTINF:-1 tvg-id="Off" tvg-name="OFF FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/9152
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/9152
 #EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6947
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6947
 #EXTINF:-1 tvg-id="Off" tvg-name="OFF HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20622
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20622
 #EXTINF:-1 tvg-id="Off" tvg-name="OFF SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4344
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4344
 #EXTINF:-1 tvg-id="Off" tvg-name="OFF SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20623
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20623
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4313
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4313
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24786
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/24786
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20520
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20520
 #EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/trutv.png" group-title="CANAIS ENTRETENIMENTO",TRUTV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6935
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6935
 #EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="CANAIS MUSICAS",VH1 MEGA HITS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/10361
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/10361
 #EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="CANAIS MUSICAS",VH1 MEGA HITS SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20459
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20459
 #EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="CANAIS MUSICAS",VH1 MEGA HITS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/10243
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/10243
 #EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6848
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6848
 #EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20460
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20460
 #EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/6928
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/6928
 #EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20461
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20461
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/20453
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/20453
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/4306
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/romero/romero/4306
